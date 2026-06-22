@@ -14,7 +14,6 @@
 # Certifications >
 - Machine Learning Certification – Internshala<br><br>---<br>
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Subhadip-Talukdar&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Subhadip-Talukdar&theme=algolia&hide_border=true)<br/>
