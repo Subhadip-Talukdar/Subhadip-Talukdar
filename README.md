@@ -4,11 +4,13 @@
 # Skills >
 **Data Analytics**<br>- SQL<br>- Python<br>- NumPY<br>- Pandas<br>- Seaborn<br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Data Visualization<br><br> **BI & Reporting**<br>- Power BI<br>- Excel<br>- Tableau<br>- Pivot Tables<br>- VLOOKUP / HLOOKUP / XLOOKUP<br>- Dashboard Development<br><br>**Technical**<br>- SQL & DBMS<br>- Python<br>- TIBCO BW<br>- TIBCO BPM<br>- ServiceNow<br>- Root Cause Analysis<br>- Incident Management<br><br>---<br>
 # Experience >
-<br>**Wipro Limited**<br>Role: Project Engineer (Data Analyst)<br>Duration: Oct 2021-Jan 2023<br><br>---<br>
+**Wipro Limited**<br>Role: Project Engineer (Data Analyst)<br>Duration: Oct 2021-Jan 2023<br><br>---<br>
 # Educations >
-<br>**JIS College Of Engineering**<br>B.Tech in Computer Science and Engineering<br>Duration: Aug 2017-Aug 2021<br><br>---<br>
+**JIS College Of Engineering**<br>B.Tech in Computer Science and Engineering<br>Duration: Aug 2017-Aug 2021<br><br>---<br>
 # Projects >
-<br><br>**🌾 Crop Production Prediction**<br>- Machine Learning project for predicting crop yields.<br>- Data preprocessing, feature engineering, and model evaluation.<br>- Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Google Collab.<br>- Model: Decision tree classifier, Random forest regressor, Linear regression.<br><br>**💬 Twitter Sentiment Analysis**<br>- Deep Learning-based sentiment classification.<br>- Text preprocessing and NLP techniques.<br>- Technologies: Python, NLP, Google Collab.<br>- Model: Embedding, LSTM, Dense Output Layer.<br><br>📊 Data Analytics Portfolio Projects<br>- <br><br>---<br>Certifications ><br><br>- Machine Learning Certification – Internshala<br><br>---<br><br><br><br><br>
+**🌾 Crop Production Prediction**<br>- Machine Learning project for predicting crop yields.<br>- Data preprocessing, feature engineering, and model evaluation.<br>- Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Google Collab.<br>- Model: Decision tree classifier, Random forest regressor, Linear regression.<br><br>**💬 Twitter Sentiment Analysis**<br>- Deep Learning-based sentiment classification.<br>- Text preprocessing and NLP techniques.<br>- Technologies: Python, NLP, Google Collab.<br>- Model: Embedding, LSTM, Dense Output Layer.<br><br>📊 Data Analytics Portfolio Projects<br>- <br><br>---<br>
+# Certifications >
+- Machine Learning Certification – Internshala<br><br>---<br><br><br><br><br>
 
 
 # 💻 Tech Stack:
