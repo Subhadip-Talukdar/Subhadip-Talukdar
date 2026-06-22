@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Subhadip Talukdar[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subhadip-talukdar-2a45a5175) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhadip42040@gmail.com)  <br>Data Analyst | SQL | Python | Power BI | Excel | Tableau |<br><br>Data Analyst with 1+ years of professional experience in data validation, production support, incident analysis, and business process monitoring within enterprise environments. Proficient in SQL, Excel, Python, and data analysis techniques, with hands-on experience in root cause analysis, reporting, and data quality management. Currently expanding expertise in Power BI, Tableau, and machine learning to transform complex data into actionable business insights. Strong analytical mindset, problem-solving abilities, and stakeholder communication skills.<br>Passionate about turning raw data into actionable insights.<br><br>📍 Kolkata, West Bengal, India<br><br>---<br>Skills ><br><br>Data Analytics<br>- SQL<br>- Python<br>- NumPY<br>- Pandas<br>- Seaborn<br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Data Visualization<br><br> BI & Reporting<br>- Power BI<br>- Excel<br>- Tableau<br>- Pivot Tables<br>- VLOOKUP / HLOOKUP / XLOOKUP<br>- Dashboard Development<br><br>Technical<br>- SQL & DBMS<br>- Python<br>- TIBCO BW<br>- TIBCO BPM<br>- ServiceNow<br>- Root Cause Analysis<br>- Incident Management<br><br>---# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>Experience ><br>Wipro Limited<br>Role: Project Engineer (Data Analyst)<br>Duration: Oct 2021-Jan 2023<br><br>---<br>Educations ><br>JIS College Of Engineering<br>B.Tech in Computer Science and Engineering<br>Duration: Aug 2017-Aug 2021<br><br>---<br>Projects ><br><br>🌾 Crop Production Prediction<br>- Machine Learning project for predicting crop yields.<br>- Data preprocessing, feature engineering, and model evaluation.<br>- Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Google Collab.<br>- Model: Decision tree classifier, Random forest regressor, Linear regression.<br><br>💬 Twitter Sentiment Analysis<br>- Deep Learning-based sentiment classification.<br>- Text preprocessing and NLP techniques.<br>- Technologies: Python, NLP, Google Collab.<br>- Model: Embedding, LSTM, Dense Output Layer.<br><br>📊 Data Analytics Portfolio Projects<br>- <br><br>---<br>Certifications ><br><br>- Machine Learning Certification – Internshala<br><br>---<br><br><br><br><br>
 
-<!--
-**Subhadip-Talukdar/Subhadip-Talukdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Subhadip-Talukdar&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Subhadip-Talukdar&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Subhadip-Talukdar&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Subhadip-Talukdar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
