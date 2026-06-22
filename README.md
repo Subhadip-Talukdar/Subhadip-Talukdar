@@ -6,7 +6,7 @@
 # Experience >
 **Wipro Limited**<br>Role: Project Engineer (Data Analyst)<br>Duration: Oct 2021-Jan 2023<br>
 # Educations >
-**JIS College Of Engineering**<br>B.Tech-Computer Science and Engineering<br>Duration: Aug 2017-Aug 2021<br>8.11 DGPA<br>
+**JIS College Of Engineering**<br>B.Tech-Computer Science and Engineering<br>Duration: Aug 2017-Aug 2021<br>8.11 DGPA<br>Skills: C, Java, Python, SQL, SDLC, Microsoft Office, Database Managment, Data Analytics and ML.
 # Projects >
 **🌾 Crop Production Prediction**<br>- Machine Learning project for predicting crop yields.<br>- Data preprocessing, feature engineering, and model evaluation.<br>- Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Google Collab.<br>- Model: Decision tree classifier, Random forest regressor, Linear regression.<br><br>**💬 Twitter Sentiment Analysis**<br>- Deep Learning-based sentiment classification.<br>- Text preprocessing and NLP techniques.<br>- Technologies: Python, NLP, Google Collab.<br>- Model: Embedding, LSTM, Dense Output Layer.<br><br>**📊 Data Analytics Portfolio Projects**<br>- <br>
 # Certifications >
