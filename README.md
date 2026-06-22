@@ -4,7 +4,7 @@
 # Skills >
 **Data Analytics**<br>- SQL<br>- Python<br>- NumPY<br>- Pandas<br>- Seaborn<br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Data Visualization<br><br> **BI & Reporting**<br>- Power BI<br>- Excel<br>- Tableau<br>- Pivot Tables<br>- VLOOKUP / HLOOKUP / XLOOKUP<br>- Dashboard Development<br><br>**Technical**<br>- SQL & DBMS<br>- Python<br>- TIBCO BW<br>- TIBCO BPM<br>- ServiceNow<br>- Root Cause Analysis<br>- Incident Management<br>
 # Experience >
-**Wipro Limited**<br>Duration: Oct 2021-Jan 2023<br><br>Project 1-<br>Role- Project Engineer (Data Analyst)<br>Skills: Advanced Excel, Python, SQL, Report Making, Dashboard Development<br><br>Project 2-<br>Role: Project Engineer (Application Support) <br>Skills: Tibco BW, Tibco BPM,  Tibco Administrator, Incident management(HPSM and ServiceNow)<br>
+**Wipro Limited**<br>Duration: Oct 2021-Jan 2023<br><br>Project 1-<br>Role- Project Engineer (Data Analyst)<br>Skills: Excel, Advanced Excel, Python, NumPY, Pandas, Matplotlib, SQL, Report Making, Dashboard Development<br><br>Project 2-<br>Role: Project Engineer (Application Support) <br>Skills: Tibco BW, Tibco BPM,  Tibco Administrator, Incident management(HPSM and ServiceNow)<br>
 # Educations >
 **JIS College Of Engineering**<br>B.Tech-Computer Science and Engineering<br>Duration: Aug 2017-Aug 2021<br>8.11 DGPA<br>Skills: C, Java, Python, SQL, SDLC, Microsoft Office, DBMS, Data Analytics and ML.
 # Projects >
