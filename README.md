@@ -12,7 +12,7 @@
 # Projects >
 **🌾 Crop Production Prediction**<br>- Machine Learning project for predicting crop yields.<br>- Data preprocessing, feature engineering, and model evaluation.<br>- Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Google Collab.<br>- Model: Decision tree classifier, Random forest regressor, Linear regression.<br><br>**💬 Twitter Sentiment Analysis**<br>- Deep Learning-based sentiment classification.<br>- Text preprocessing and NLP techniques.<br>- Technologies: Python, NLP, Google Collab.<br>- Model: Embedding, LSTM, Dense Output Layer.<br><br>**📊 Data Analytics Portfolio Projects**<br>- <br>
 # Certifications >
-- Machine Learning Certification – Internshala<br><br><br>
+- Machine Learning Certification – Internshala
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Subhadip-Talukdar&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Subhadip-Talukdar&theme=algolia&hide_border=true)<br/>
