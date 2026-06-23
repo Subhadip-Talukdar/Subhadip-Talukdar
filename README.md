@@ -11,8 +11,7 @@
 **JIS College Of Engineering**<br>B.Tech-Computer Science and Engineering<br>Duration: Aug 2017-Aug 2021<br>8.11 DGPA<br>Skills: C, Java, Python, SQL, SDLC, Microsoft Office, DBMS, Data Analytics and ML.
 # Projects >
 **🌾 Crop Production Prediction**<br>- Machine Learning project for predicting crop yields.<br>- Data preprocessing, feature engineering, and model evaluation.<br>- Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Google Collab.<br>- Model: Decision tree classifier, Random forest regressor, Linear regression.<br><br>**💬 Twitter Sentiment Analysis**<br>- Deep Learning-based sentiment classification.<br>- Text preprocessing and NLP techniques.<br>- Technologies: Python, NLP, Google Collab.<br>- Model: Embedding, LSTM, Dense Output Layer.<br><br>**📊 Data Analytics Portfolio Projects**<br>- <br>
-# Certifications >
--  Machine Learning certifications - Internshala<br><br><br>
+# Certifications >- Machine Learning certifications - Internshala<br><br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Subhadip-Talukdar&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Subhadip-Talukdar&theme=algolia&hide_border=true)<br/>
